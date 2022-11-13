@@ -1,0 +1,25 @@
+[
+  {
+    "inputs": [
+     {
+       "name": "_chainToken",
+       "type": "address"
+     },
+     {
+       "name": "_clientToken",
+       "type": "address"
+     },
+     {
+       "name": "_amount",
+       "type": "uint256"
+     },
+     {
+       "name": "_orderMeta",
+       "type": "string"
+     }
+     ],
+     "name": "charge",
+     "stateMutability": "pure",
+     "type": "function"
+    }
+]
